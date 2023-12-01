@@ -103,4 +103,3 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
   - { url: '/projects', text: 'Projects' }
-  - { url: '/posts', text: 'Posts' }
