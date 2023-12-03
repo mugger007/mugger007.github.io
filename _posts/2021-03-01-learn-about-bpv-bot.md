@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Learn-about-BPV Bot'
-date: 'Jan 2021 - Mar 2021'
+period: 'Jan 2021 - Mar 2021'
 categories: development
 tags: Python PostgreSQL
 featured_image: '/img/posts/learn-about-bpv-bot.png'

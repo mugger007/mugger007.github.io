@@ -2,7 +2,7 @@
 layout: inner
 position: left
 title: 'Blockchain Rx'
-date: 'Aug 2021 - Jan 2022'
+period: 'Aug 2021 - Jan 2022'
 categories: development
 tags: Solidity React Web3
 featured_image: '/img/posts/blockchain-rx.png'
