@@ -3,203 +3,67 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+# Education
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+**Aug 2016 – Jun 2021**  
+**National University of Singapore**  
+*Bachelor of Science (Honours - Distinction) in Pharmacy* 
 
-[Link to another page](/index.html).
+**Aug 2019 – Jul 2020**
+**National Overseas College**
+*Shanghai*
 
-There should be whitespace between paragraphs.
+# Career
 
-# Header 1
+## Associate Product Manager at Visa  
+**Feb 2022 – Present**
+*Location: Singapore*
+- Developed enhancements to Visa’s self-service data/BI platform for internal users which includes MicroStrategy, Power BI and other custom applications.   This involved collaboration with the platform users and technology teams to understand business requirements and assess the technical feasibility of proposed enhancements Analyzed and troubleshoot platform and data issues with technology teams
+- Served as the product owner for specific custom applications (i.e. a chatbot and a data dictionary) of the platform
+- Initiated and completed proof-of-concepts (POCs) on applying generative AI (e.g. retrieval augmented generation, code interpreter) in existing custom applications with open-source tools
+- **Milestones**: ensured 100% uptime and increased the Monthly Active Users (MAU) and the Net Promoter Score (NPS) by over 30% for those custom applications.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+## Project Management Intern, CBO Office at CareVoice
+ **Nov 2020 – May 2021** 
+*Location: Shanghai (Remote from Singapore)*
+- Conducted market research on regional health insurance services.
+- Developed and executed regional go-to-market strategies.
+- Facilitated in building CareVoice’s health services ecosystem through partnership exploration with regional healthtech companies.
 
-## Header 2
+## Product Development Executive at Vouch  
+**Mar 2020 – Aug 2020**
+*Location: Singapore*
+- Assisted in product development and management.
+- Adopted the agile methodology and served as the point of contact for several service providers in various projects.
+- Researched and analyzed technical documentation to facilitate the building of the projects' technology stack.
+- Built, tested, and debugged digital concierges (i.e., chatbots).
+- Conducted user research and usability testing with UI/UX tools and framework.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Research Intern at Worrell Design Inc.  
+**Sep 2019 – Feb 2020**
+*Location: Shanghai*
+- Assisted in consulting and project management.
+- Participated in multiple healthcare design and research projects, involved in preliminary research, ethnographic research plan and guide, fieldwork support, shadowing, in-depth interviews (IDIs), and note-taking.
+- Managed and revamped the internal client database with Excel VBA.
+- Organized archived projects and managed the archive database with Excel VBA.
 
-### Header 3
+## Marketing Intern at Pfizer  
+**May 2019 – Aug 2019**
+- Assisted the product manager and took up mini projects under Medical and Head of Marketing.
+- Planned and executed marketing initiatives to support healthcare professionals in their clinical care.
 
-{% highlight js %}
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-{% endhighlight %}
+# Scholastic Achievements/Extracurricular Activities
 
-{% highlight ruby %}
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-{% endhighlight %}
+**Scholastic Achievements/Awards**
+- Winning Team for M2 Startup Challenge (AI Enabled Health Solutions)
+- Finalist (Top 10) Team for Hack.Asia 2020 (Retail Reboot)
+- **Scholarship:** Ministry of Health Holdings – Healthcare Merit Award
 
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
----
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Wide image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-{% highlight txt %}
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-{% endhighlight %}
-
-{% highlight txt %}
-The final element.
-{% endhighlight %}
-
----
-
-## Syntax highlighting
-
-Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
-
-To render a code block with syntax highlighting, surround your code as follows:
-
-{% highlight markdown %}
-{% raw %}
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
-{% endraw %}
-{% endhighlight %}
-
-[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
-
-### Examples
-
----
-
-#### Bash
-
-{% highlight bash %}
->_ ssh -i ~/.ssh/id_rsa account@host.com
-account@host:~$
-$ var="my-value"
-$ echo $var
-my-value
-$ logout
-{% endhighlight %}
-
-#### HTML
-
-{% highlight html %}
-<!DOCTYPE html>
-<html>
- <head>
-   <meta charset="UTF-8">
-   <title>title</title>
- </head>
- <body>
-
- </body>
-</html>
-{% endhighlight %}
-
-#### CSS
-
-{% highlight css %}
-/*--------------------------------------------------------------
-	1.0 Defaults
---------------------------------------------------------------*/
-
-@media (min-width: 1200px) {
-  .container {
-    width: 1200px;
-  }
-}
-
-body {
-  background-color: #e9edf0;
-  @extend %opensans;
-  -webkit-font-smoothing: antialiased;
-}
-{% endhighlight %}
-
-#### YAML
-
-{% highlight yaml %}
-### Phantom settings
-paginate: 10
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-
-#### Phantom Navigation menu
-enable_nav: true
-nav_item:
-  - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
-{% endhighlight %}
+**Leadership Roles**
+- Vice President (External) of SHEN Committee.
+- Organizing Committee for AI InnovaSHEN.
+- Organizing Committee for TECOM Shanghai 2020.
+- Vice Project Director for Graduation Dinner Committee.
+- Project Director and Head of Marketing for Youth Expedition Project.
+- Executive Committee and Head Orientation Group Leader for Freshmen Orientation Project.
+- Class Representative for Pharmacy Class of 2020.
