@@ -102,4 +102,4 @@ enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: 'https://www.linkedin.com/in/huangjianyang/', text: 'About' }
-  - { url: '/_includes\post-content.html', text: 'Projects' }
+  - { url: '/projects', text: 'Projects' }
